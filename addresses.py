@@ -10,8 +10,8 @@ for line in i:
 	list = l2.split(',')
 	g = geocoders.GoogleV3()
 	place, (lat, lng) = g.geocode(list[0])
-	c.write('%.5f %.5f' % (lat, lng)) #must make sure it is okay to remove commas in the string
-	c.write('\n')
+	#c.write('%.5f %.5f' % (lat, lng)) #must make sure it is okay to remove commas in the string
+	#c.write('\n')
 	w.write('%.5f %.5f %s' % (lat, lng, list[1])) #must make sure it is okay to remove commas in the string
 
 i.close()
