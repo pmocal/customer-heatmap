@@ -1,0 +1,18 @@
+“2700 Hearst Ave” “Berkeley” “CA” 94720 $123200.00
+“2390 Parker St” “Berkeley” “CA” 94704 $50000.00
+“2020 Kittredge St” “Berkeley” “CA” 94704 $500.00
+“2617 Hillegass Ave” “Berkeley” “CA” 94704 $6500.00
+“2310 Fulton St” “Berkeley” “CA” 94720 $30000.20
+“2333 Fulton St” “Berkeley” “CA” 94704 $3200.00
+“2401 Piedmont Ave” “Berkeley” “CA” 94704 $20000.00
+“2520 Channing Way” “Berkeley” “CA” 94704 $45000.00
+“2535 Channing Way” “Berkeley” “CA” 94704 $2000.00
+“2518 Etna Street” “Berkeley” “CA” 94704 $5500.00
+“2185 Dwight Way” “Berkeley” “CA” 94704 $7000.00
+“2511 Parker St” “Berkeley” “CA” 94704 $4500.00
+“2813 Channing Way” “Berkeley” “CA” 94704 $3200.00
+“2600 Ridge Rd” “Berkeley” “CA” 94709 $20000.00
+“1755 Le Roy Ave” “Berkeley” “CA” 94709 $60000.00
+“2527 Ridge Rd” “Berkeley” “CA” 94709 $40000.00
+“1703 University Ave” “Berkeley” “CA” 94703 $1000000.00
+“1865 University Ave” “Berkeley” “CA” 94703 $240000.00
