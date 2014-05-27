@@ -1,0 +1,1 @@
+find [^i]*.txt | xargs rm
