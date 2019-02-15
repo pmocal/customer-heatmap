@@ -8,14 +8,20 @@ Taking output from a dummy business' Microsoft Access customer database, wrote s
 
 ### Prerequisites
 
-Make sure python3 is installed as well as geopy. `pip3 install geopy` installs the latter.
+Make sure python3 is installed.
+```
+$ pip3 install geopy
+```
 
 ### Running the code
+```
+$ python3 addresses.py
+$ python3 weightedmeancenter.py
+$ python3 formatCoordinates.py
+```
+Then open `heatmap.html` to see the data all plotted! 
 
-First run `python3 addresses.py`.  
-Then `python3 weightedmeancenter.py`.  
-Then `python3 formatCoordinates.py`.  
-Then open `heatmap.html` to see the data all plotted!  
+
 
 Pass a different `importedAddresses.txt` with the same formatting as the file I provided to see a heatmap for a different dataset.
 
