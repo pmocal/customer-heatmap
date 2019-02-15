@@ -9,7 +9,8 @@ for line in w:
 	list = line.split()
 	t.write('{location: new google.maps.LatLng(%.5f,%.5f), weight: %.5f}, ' % (float(list[0]), float(list[1]), float(list[2])))
 
-t.seek(-2, os.SEEK_END)
+t.seek(0, os.SEEK_END)
+t.seek(t.tell() - 2, os.SEEK_SET)
 t.truncate()
 
 
