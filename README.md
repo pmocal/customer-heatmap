@@ -21,11 +21,11 @@ $ python3 formatCoordinates.py
 ```
 Then open `heatmap.html` to see the data all plotted! 
 
+### Using different dataset
 
+Edit `importedAddresses.txt` to contain your dataset. Format shouldn't change.
 
-Pass a different `importedAddresses.txt` with the same formatting as the file I provided to see a heatmap for a different dataset.
-
-## Changes/additions to be made
+## Extensions I plan to do
 
 - Host it online and let users upload a `importedAddresses.txt` file to produce heatmap completely in-browser
 - Could add more functionality to increase potential benefit for businesses (i.e. what if they're opening another location, not moving?)
