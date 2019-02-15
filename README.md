@@ -1,9 +1,5 @@
 ## Summary
 
-**Find where your businesses customers are located! If your business should move, this repo shows you where the new business should be.**
-
-## In depth
-
 Taking output from a dummy business' Microsoft Access customer database, wrote scripts that use the Google Maps API to geocode customers' addresses (I used a dataset for Berkeley, CA). Used the total amount that each customer had spent at the business to weight each coordinate and calculate a weighted mean center. Created a heatmap with all of this information and plotted the weighted mean center with a marker. Potential application for a business: If a business needed to change locations or add a new location, they could use this program to figure out where an optimal new location would be.
 
 ## How to use
