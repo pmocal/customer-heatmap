@@ -1,3 +1,5 @@
+# Customer Heatmap
+
 ![screenshot](screenshot.png)
 
 ## Summary
