@@ -30,4 +30,4 @@ Edit `importedAddresses.txt` to contain your dataset. Format shouldn't change.
 ## Extensions I plan to do
 
 - Host it online and let users upload a `importedAddresses.txt` file to produce heatmap completely in-browser
-- Could add more functionality to increase potential benefit for businesses (i.e. what if they're opening another location, not moving?)
+- Add more functionality to benefit business (e.g. what if they're not relocating but rather opening up an additional location?)
